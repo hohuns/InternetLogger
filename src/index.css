@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: sans-serif;
+}
+
+body {
+  margin: 0;
+  background: linear-gradient(to left, #3399ff 27%, #9999ff 100%);
+}
+
+@font-face {
+  font-family: Nanum-light;
+  src: url("./Font/SourceSansPro-ExtraLight.ttf");
+}

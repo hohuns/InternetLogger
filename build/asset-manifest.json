@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/InternetLogger/static/css/main.18b2549d.chunk.css",
+    "main.js": "/InternetLogger/static/js/main.ba5673ac.chunk.js",
+    "main.js.map": "/InternetLogger/static/js/main.ba5673ac.chunk.js.map",
+    "runtime-main.js": "/InternetLogger/static/js/runtime-main.81865355.js",
+    "runtime-main.js.map": "/InternetLogger/static/js/runtime-main.81865355.js.map",
+    "static/js/2.04306403.chunk.js": "/InternetLogger/static/js/2.04306403.chunk.js",
+    "static/js/2.04306403.chunk.js.map": "/InternetLogger/static/js/2.04306403.chunk.js.map",
+    "index.html": "/InternetLogger/index.html",
+    "precache-manifest.b0c713befff471cf50106921d6020303.js": "/InternetLogger/precache-manifest.b0c713befff471cf50106921d6020303.js",
+    "service-worker.js": "/InternetLogger/service-worker.js",
+    "static/css/main.18b2549d.chunk.css.map": "/InternetLogger/static/css/main.18b2549d.chunk.css.map",
+    "static/js/2.04306403.chunk.js.LICENSE.txt": "/InternetLogger/static/js/2.04306403.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/InternetLogger/static/media/SourceSansPro-ExtraLight.9abcaaba.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81865355.js",
+    "static/js/2.04306403.chunk.js",
+    "static/css/main.18b2549d.chunk.css",
+    "static/js/main.ba5673ac.chunk.js"
+  ]
+}
